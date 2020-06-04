@@ -1,2 +1,7 @@
-# NetflixChecker
-Vérificateur de comptes Netflix écrit en Python
+# Installations requises
+    sudo apt install python-pip
+    
+    sudo pip install future
+    
+    sudo pip install progressbar2
+    
