@@ -7,9 +7,9 @@ from os import path
 from random import randint
 from time import sleep
  
-working=[]
-dead=[]
-notActive=[]
+working = []
+dead = []
+notActive = []
 br = Browser()
  
 def testAccount(email,password,typeProxy):
