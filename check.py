@@ -95,7 +95,6 @@ def writeToFile():
     nonActiveFile.close()
     print ('')
     print ('Résultats :')
-    print ('--------')
     print ('')
     print ('Comptes valides : ' + str(len(working)))
     print ('Comptes inactifs : '+ str(len(notActive)))
